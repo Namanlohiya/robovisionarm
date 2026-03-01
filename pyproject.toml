@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "robovisionarm"
+version = "0.1.0"
+description = "Computer Vision Controlled DIY Robotic Arm"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+  { name = "Naman Lohiya" }
+]
+
+license = "MIT"
+
+dependencies = [
+  "opencv-python",
+  "mediapipe",
+  "pyserial"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
