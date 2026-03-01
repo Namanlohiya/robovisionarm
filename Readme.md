@@ -25,7 +25,7 @@ Upload your demo video (`robotarm.mp4`) to your GitHub repository and embed it h
 Example:
 
 ```
-https://github.com/YOUR_USERNAME/robovisionarm/blob/main/robotarm.mp4
+https://github.com/Namanlohiya/robovisionarm/robotarm.mp4
 ```
 
 GitHub will automatically show a video player.
@@ -218,4 +218,5 @@ MIT License
 # ⭐ Support
 
 If you like this project, consider starring the GitHub repository and sharing it with the robotics community.
+
   
